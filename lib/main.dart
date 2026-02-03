@@ -233,6 +233,7 @@ class _HomePageState extends State<HomePage> {
         alwaysGranted: false,
         notificationsGranted: false,
         needsSettings: false,
+        preciseLocation: false,
       );
     }
 
@@ -251,6 +252,7 @@ class _HomePageState extends State<HomePage> {
         alwaysGranted: false,
         notificationsGranted: false,
         needsSettings: locationStatus.isPermanentlyDenied,
+        preciseLocation: false,
       );
     }
 
