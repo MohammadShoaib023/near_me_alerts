@@ -1,0 +1,142 @@
+[
+  {
+    "id": "loc_1",
+    "name": "Fuel Station 1",
+    "latitude": 36.248623,
+    "longitude": 44.0711259,
+    "radiusMeters": 200
+  },
+  {
+    "id": "loc_2",
+    "name": "Fuel Station 2",
+    "latitude": 36.249102,
+    "longitude": 44.072031,
+    "radiusMeters": 180
+  },
+  {
+    "id": "loc_3",
+    "name": "Fuel Station 3",
+    "latitude": 36.247890,
+    "longitude": 44.070210,
+    "radiusMeters": 150
+  },
+  {
+    "id": "loc_4",
+    "name": "Fuel Station 4",
+    "latitude": 36.250010,
+    "longitude": 44.073120,
+    "radiusMeters": 200
+  },
+  {
+    "id": "loc_5",
+    "name": "Fuel Station 5",
+    "latitude": 36.246980,
+    "longitude": 44.069845,
+    "radiusMeters": 170
+  },
+  {
+    "id": "loc_6",
+    "name": "Fuel Station 6",
+    "latitude": 36.248410,
+    "longitude": 44.072890,
+    "radiusMeters": 160
+  },
+  {
+    "id": "loc_7",
+    "name": "Fuel Station 7",
+    "latitude": 36.249876,
+    "longitude": 44.070512,
+    "radiusMeters": 190
+  },
+  {
+    "id": "loc_8",
+    "name": "Fuel Station 8",
+    "latitude": 36.247450,
+    "longitude": 44.071980,
+    "radiusMeters": 140
+  },
+  {
+    "id": "loc_9",
+    "name": "Fuel Station 9",
+    "latitude": 36.250320,
+    "longitude": 44.071650,
+    "radiusMeters": 210
+  },
+  {
+    "id": "loc_10",
+    "name": "Fuel Station 10",
+    "latitude": 36.246750,
+    "longitude": 44.070980,
+    "radiusMeters": 160
+  },
+  {
+    "id": "loc_11",
+    "name": "Fuel Station 11",
+    "latitude": 36.248950,
+    "longitude": 44.073450,
+    "radiusMeters": 200
+  },
+  {
+    "id": "loc_12",
+    "name": "Fuel Station 12",
+    "latitude": 36.249540,
+    "longitude": 44.069920,
+    "radiusMeters": 150
+  },
+  {
+    "id": "loc_13",
+    "name": "Fuel Station 13",
+    "latitude": 36.247120,
+    "longitude": 44.072430,
+    "radiusMeters": 180
+  },
+  {
+    "id": "loc_14",
+    "name": "Fuel Station 14",
+    "latitude": 36.250780,
+    "longitude": 44.072010,
+    "radiusMeters": 220
+  },
+  {
+    "id": "loc_15",
+    "name": "Fuel Station 15",
+    "latitude": 36.246430,
+    "longitude": 44.069610,
+    "radiusMeters": 140
+  },
+  {
+    "id": "loc_16",
+    "name": "Fuel Station 16",
+    "latitude": 36.248210,
+    "longitude": 44.070330,
+    "radiusMeters": 170
+  },
+  {
+    "id": "loc_17",
+    "name": "Fuel Station 17",
+    "latitude": 36.249330,
+    "longitude": 44.071880,
+    "radiusMeters": 160
+  },
+  {
+    "id": "loc_18",
+    "name": "Fuel Station 18",
+    "latitude": 36.247680,
+    "longitude": 44.069990,
+    "radiusMeters": 190
+  },
+  {
+    "id": "loc_19",
+    "name": "Fuel Station 19",
+    "latitude": 36.250150,
+    "longitude": 44.073890,
+    "radiusMeters": 210
+  },
+  {
+    "id": "loc_20",
+    "name": "Fuel Station 20",
+    "latitude": 36.246210,
+    "longitude": 44.071420,
+    "radiusMeters": 150
+  }
+]
